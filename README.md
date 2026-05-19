@@ -18,9 +18,16 @@ Provides the mathematical background necessary to understand algorithms encounte
  
 ---
 
+### DSCI 508 – Machine Learning
+An introduction to machine learning covering supervised learning, machine learning algorithms, learning theory, reinforcement learning, adaptive control, and neural networks. Applications include data mining, autonomous navigation, and web data processing.
+ 
+📁 [`DSCI 508 Machine Learning`](./DSCI%20508%20Machine%20Learning)
+ 
+---
+
 ## About Me
 
-I'm a Senior Software Engineer with 9 years of experience building enterprise applications, currently pursuing this M.S. to deepen my expertise in AI. I'm particularly interested in applying AI to solve real-world business problems.
+I'm a Senior Software Engineer with 10 years of experience building enterprise applications, currently pursuing this M.S. to deepen my expertise in AI. I'm particularly interested in applying AI to solve real-world business problems.
 
 - 🌐 [Portfolio](https://BenMillerDev.github.io)
 - 💼 [LinkedIn](https://www.linkedin.com/in/ben-miller-a55901132/)
