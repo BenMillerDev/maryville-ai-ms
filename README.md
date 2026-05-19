@@ -4,7 +4,7 @@ This repository contains my coursework and assignments from the Master of Scienc
 
 ## Courses
 
-### Foundations of Artificial Intelligence
+### COSC 640 - Foundations of Artificial Intelligence
 An introductory course covering core AI concepts including History of Artificial Intelligence, logic, game theory, search algorithms, knowledge representation, and automated planning.
 
 📁 [`COSC 640 Foundations of AI`](./COSC%20640%20Foundations%20of%20AI)
