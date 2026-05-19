@@ -5,10 +5,17 @@ This repository contains my coursework and assignments from the Master of Scienc
 ## Courses
 
 ### Foundations of Artificial Intelligence
-An introductory course covering core AI concepts including search algorithms, knowledge representation, and foundational machine learning principles.
+An introductory course covering core AI concepts including History of Artificial Intelligence, logic, game theory, search algorithms, knowledge representation, and automated planning.
 
 📁 [`COSC 640 Foundations of AI`](./COSC%20640%20Foundations%20of%20AI)
 
+---
+
+### MATH 509 – Math for Artificial Intelligence
+Provides the mathematical background necessary to understand algorithms encountered in machine learning, AI, and related fields. Topics include probability theory, statistics, calculus, linear algebra, and optimization.
+ 
+📁 [`MATH 509 Math for Artificial Intelligence`](./MATH%20509%20Math%20for%20Artificial%20Intelligence)
+ 
 ---
 
 ## About Me
