@@ -7,7 +7,7 @@ This repository contains my coursework and assignments from the Master of Scienc
 ### Foundations of Artificial Intelligence
 An introductory course covering core AI concepts including search algorithms, knowledge representation, and foundational machine learning principles.
 
-📁 [`COSC 640 Foundations of AI/`](./COSC 640 Foundations of AI)
+📁 [`COSC 640 Foundations of AI`](./COSC%20640%20Foundations%20of%20AI)
 
 ---
 
