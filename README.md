@@ -25,6 +25,13 @@ An introduction to machine learning covering supervised learning, machine learni
  
 ---
 
+### DSCI 619 – Deep Learning
+An introduction to deep learning through the design and deployment of advanced neural network architectures. Topics include regression and classification models, convolutional and recurrent networks, and generative adversarial networks (GANs).
+ 
+📁 [`DSCI 619 Deep Learning`](./DSCI%20619%20Deep%20Learning)
+ 
+---
+
 ## About Me
 
 I'm a Senior Software Engineer with 10 years of experience building enterprise applications, currently pursuing this M.S. to deepen my expertise in AI. I'm particularly interested in applying AI to solve real-world business problems.
