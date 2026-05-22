@@ -4,18 +4,18 @@ This repository contains my coursework and assignments from the Master of Scienc
 
 ## Courses
 
+### DSCI 619 – Deep Learning
+An introduction to deep learning through the design and deployment of advanced neural network architectures. Topics include regression and classification models, convolutional and recurrent networks, and generative adversarial networks (GANs).
+ 
+📁 [`DSCI 619 Deep Learning`](./DSCI%20619%20Deep%20Learning)
+ 
+---
+
 ### COSC 640 - Foundations of Artificial Intelligence
 An introductory course covering core AI concepts including History of Artificial Intelligence, logic, game theory, search algorithms, knowledge representation, and automated planning.
 
 📁 [`COSC 640 Foundations of AI`](./COSC%20640%20Foundations%20of%20AI)
 
----
-
-### MATH 509 – Math for Artificial Intelligence
-Provides the mathematical background necessary to understand algorithms encountered in machine learning, AI, and related fields. Topics include probability theory, statistics, calculus, linear algebra, and optimization.
- 
-📁 [`MATH 509 Math for Artificial Intelligence`](./MATH%20509%20Math%20for%20Artificial%20Intelligence)
- 
 ---
 
 ### DSCI 508 – Machine Learning
@@ -25,10 +25,17 @@ An introduction to machine learning covering supervised learning, machine learni
  
 ---
 
-### DSCI 619 – Deep Learning
-An introduction to deep learning through the design and deployment of advanced neural network architectures. Topics include regression and classification models, convolutional and recurrent networks, and generative adversarial networks (GANs).
+### MATH 509 – Math for Artificial Intelligence
+Provides the mathematical background necessary to understand algorithms encountered in machine learning, AI, and related fields. Topics include probability theory, statistics, calculus, linear algebra, and optimization.
  
-📁 [`DSCI 619 Deep Learning`](./DSCI%20619%20Deep%20Learning)
+📁 [`MATH 509 Math for Artificial Intelligence`](./MATH%20509%20Math%20for%20Artificial%20Intelligence)
+ 
+---
+
+### DSCI 503 – Python Programming
+Covers Python fundamentals including data types, statements, expressions, and control flow. Includes hands-on work with core libraries (NumPy, SciPy, Pandas, Matplotlib, Seaborn) and modeling libraries (Statsmodels and Scikit-learn).
+ 
+📁 [`DSCI 503 Python Programming`](./DSCI%20503%20Python%20Programming)
  
 ---
 
