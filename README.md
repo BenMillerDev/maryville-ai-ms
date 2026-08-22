@@ -11,6 +11,13 @@ An introduction to deep learning through the design and deployment of advanced n
  
 ---
 
+### COSC 635 – Reinforcement Learning
+An introduction to reinforcement learning with an emphasis on deep reinforcement learning. Topics include Markov decision processes, value-based methods, Deep Q-networks, policy-gradient methods, actor-critic algorithms, and multi-agent problems.
+ 
+📁 [`COSC 635 Reinforcement Learning`](./COSC%20635%20Reinforcement%20Learning)
+ 
+---
+
 ### COSC 640 - Foundations of Artificial Intelligence
 An introductory course covering core AI concepts including History of Artificial Intelligence, logic, game theory, search algorithms, knowledge representation, and automated planning.
 
@@ -23,6 +30,13 @@ An introduction to machine learning covering supervised learning, machine learni
  
 📁 [`DSCI 508 Machine Learning`](./DSCI%20508%20Machine%20Learning)
  
+---
+
+### COSC 650 – Applied LLM Systems
+Covers the core technical foundations of LLMs including tokenization, transformer internals, scaling behavior, and pre-training objectives. Practical topics include fine-tuning, LoRA, instruction tuning, benchmarking, safety assessment, and reliability testing. Students build end-to-end systems integrating LLMs with retrieval, tools, and orchestration frameworks.
+ 
+🔗 This course has its own dedicated repository: [BenMillerDev/Applied-LLM-Systems](https://github.com/BenMillerDev/Applied-LLM-Systems)
+
 ---
 
 ### MATH 509 – Math for Artificial Intelligence
